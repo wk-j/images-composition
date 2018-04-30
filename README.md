@@ -4,7 +4,7 @@
 dotnet tool install -g wk.ImagesComposition
 ```
 
-### Usages
+## Usage
 
 ```bash
 wk-compose source1.jpg source2.jpg output.jpg
